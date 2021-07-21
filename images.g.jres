@@ -1,0 +1,17 @@
+{
+    "LV9,Qzvg{DJ:S%Vhh46:": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAPAAAAAP////UPAADwIh9f9fIAAC/yEU8v8g8ALx8R8fu/+wAvv/Efsbv7APC/GxERsbsP8Pu7GxERsQ/wu/8R+xH/9fD7H7Gx/1T1AP8R+xGxT/QAH7H7EbtPDwAfsR+xv/sAAPD/sfv7DwAAAAD//w8AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "cucoo"
+    },
+    "cf)": {
+        "data": "hwQQABYAAAAAAP//AAC7u7sAAAAA8N7dD7ARERELAAAAAP/9/Q8biIixAAAA8DPf3w8bmJkYCwAA/z/z3f0bmJkYCwDwRj/zEd0biIix/wBvZvTz8b0RERH7/wBvZ/Tz3d27u7v2/wB/d/Tz3d39d2b2/wBvZ/Tz8d1vZ2b2/wDwRj/zEd1/Z2Yv/wDw9j/z3f1mZmZP/wAAb/bf32/2//byDwAA8P/9/X/v3///DwAA8N7dD/Du3f0AAAAAAP//AAD//w8AAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "link"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
